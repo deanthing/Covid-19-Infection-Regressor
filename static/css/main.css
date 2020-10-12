@@ -1,0 +1,31 @@
+
+
+.lft {
+  padding-left: 5%;
+  padding-top: 3%;
+}
+
+
+.error {
+  color: red;
+  padding-bottom: 40px;
+  margin-bottom: 2%;
+}
+
+.inp {
+  padding-left: 5%;
+}
+
+.jumbotron {
+  padding-bottom: 32px;
+}
+
+#map {
+  width: 100%; 
+  height: 88vh; 
+  position: relative
+}
+
+@media only screen and (max-width: 479px) {
+  .mobile-hide{ display: none !important; }
+}

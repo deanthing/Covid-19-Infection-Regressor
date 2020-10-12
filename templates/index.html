@@ -1,0 +1,206 @@
+{% extends "base.html" %}
+
+{% block src %}
+    <script>
+        function initMap() {
+        // Create the map.
+        var map = new google.maps.Map(document.getElementById('map'), {
+            zoom: 4,
+            center: {lat: 37.0, lng: -97.712},
+            styles: [
+            {
+                elementType: 'geometry',
+                stylers: [{color: '#f5f5f5'}]
+            },
+            {
+                elementType: 'labels.icon',
+                stylers: [{visibility: 'off'}]
+            },
+            {
+                elementType: 'labels.text.fill',
+                stylers: [{color: '#616161'}]
+            },
+            {
+                elementType: 'labels.text.stroke',
+                stylers: [{color: '#f5f5f5'}]
+            },
+            {
+                featureType: 'administrative.land_parcel',
+                elementType: 'labels.text.fill',
+                stylers: [{color: '#bdbdbd'}]
+            },
+            {
+                featureType: 'poi',
+                elementType: 'geometry',
+                stylers: [{color: '#eeeeee'}]
+            },
+            {
+                featureType: 'poi',
+                elementType: 'labels.text.fill',
+                stylers: [{color: '#757575'}]
+            },
+            {
+                featureType: 'poi.park',
+                elementType: 'geometry',
+                stylers: [{color: '#e5e5e5'}]
+            },
+            {
+                featureType: 'poi.park',
+                elementType: 'labels.text.fill',
+                stylers: [{color: '#9e9e9e'}]
+            },
+            {
+                featureType: 'road',
+                elementType: 'geometry',
+                stylers: [{color: '#ffffff'}]
+            },
+            {
+                featureType: 'road.arterial',
+                elementType: 'labels.text.fill',
+                stylers: [{color: '#757575'}]
+            },
+            {
+                featureType: 'road.highway',
+                elementType: 'geometry',
+                stylers: [{color: '#dadada'}]
+            },
+            {
+                featureType: 'road.highway',
+                elementType: 'labels.text.fill',
+                stylers: [{color: '#616161'}]
+            },
+            {
+                featureType: 'road.local',
+                elementType: 'labels.text.fill',
+                stylers: [{color: '#9e9e9e'}]
+            },
+            {
+                featureType: 'transit.line',
+                elementType: 'geometry',
+                stylers: [{color: '#e5e5e5'}]
+            },
+            {
+                featureType: 'transit.station',
+                elementType: 'geometry',
+                stylers: [{color: '#eeeeee'}]
+            },
+            {
+                featureType: 'water',
+                elementType: 'geometry',
+                stylers: [{color: '#c9c9c9'}]
+            },
+            {
+                featureType: 'water',
+                elementType: 'labels.text.fill',
+                stylers: [{color: '#9e9e9e'}]
+            }
+            ],
+            zoomControl: true,
+            mapTypeControl: false,
+            scaleControl: true,
+            streetViewControl: false,
+            rotateControl: false,
+            fullscreenControl: false
+        });
+
+        var lat;
+        var long;
+        var latLang;
+        {% for city in index %}
+
+            
+            lat = '{{ city['lat'] }}';
+            long = '{{ city['long'] }}';
+            latLang = {lat: parseFloat(lat), lng: parseFloat(long)};
+
+            // Add the circle for this city to the map.
+            var cityCircle = new google.maps.Circle({
+                strokeColor: '#ff0000',
+                strokeOpacity: 0.8,
+                strokeWeight: 2,
+                fillColor: '#ff0000',
+                fillOpacity: 0.35,
+                map: map,
+                center: latLang,
+                radius: Math.sqrt({{ city['cases'] }}) * ((1/map.getZoom()) * 5000)
+            });
+
+        {% endfor %}
+        google.maps.event.addListener(map, 'zoom_changed', function() {
+            var zoom = map.getZoom();
+            console.log(zoom);
+        });
+        }
+    </script>
+{% endblock %}
+
+{% block title %} Coronavirus Transmission Estimator {% endblock %}
+
+{% block content %}
+    <div class="row">
+        <div class="col-4 first lft">
+            <h2>Liklihood of Infection Calculator</h2>
+            <br>
+            <br>
+            {{ form.csrf_token }}
+            <form class ="inp" action="" method="post" novalidate>
+                {{ form.csrf_token }}
+                <p>
+                    <strong>{{ form.usrCounty.label }}</strong><br>
+                    {{ form.usrCounty(size=32) }}
+
+                </p>
+                {% for error in form.usrCounty.errors %}
+                    <span class="error">{{ error }}</span><br>
+                {% endfor %}
+                <br>
+                <p>
+                    <strong>{{ form.usrState.label }}</strong><br>
+                    {{ form.usrState(size=32) }}
+
+                </p>
+                {% for error in form.usrState.errors %}
+                    <span class="error">{{ error }}</span><br>
+                {% endfor %}
+                <br>
+                <p>
+                    <strong>{{ form.usrAge.label }}</strong><br>
+                    {{ form.usrAge(size=32) }}
+                </p>
+                {% for error in form.usrAge.errors %}
+                    <span class="error">{{ error }}</span>
+                    <br>
+                {% endfor %}
+                <br>
+                {% with messages = get_flashed_messages() %}
+                    {% if messages %}
+                        {% for message in messages %}
+                            <p style='color: red'> {{ message }} </p>
+                        {% endfor %}
+
+                    {% endif %}
+                {% endwith %}
+                <br>
+
+                <p>{{ form.submit() }}</p>
+                <p>After clicking submit, we are using your information (location and age) in our pretrained regression model to predict the liklihood of an outbreak in your age group. <a href="{{ url_for('about') }}">More information about the project.</a></p>
+
+            </form>
+        </div>
+        <div class="col-8 second mobile-hide">
+                <div id="map" style="width: 100%; height: 88vh; position: relative"></div>
+        </div>
+    </div>
+
+
+
+
+
+
+
+
+<script async defer
+      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCa-EvlHYXL33wu_o23sGVWqo6vOEw7-0c&callback=initMap">
+</script>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+{% endblock %}

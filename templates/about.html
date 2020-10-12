@@ -1,0 +1,53 @@
+{% extends "base.html" %}
+
+{% block src %}
+{% endblock %}
+
+{% block title %} About Us {% endblock %}
+
+{% block content %}
+<main role="main">
+
+    <!-- Main jumbotron for a primary marketing message or call to action -->
+    <div class="jumbotron">
+      <div class="container">
+        <h1 class="display-3">About This Project and the Developers</h1>
+        <p>
+            The purpose of this site is to provide the most accurate prediction of the liklihood of an outbreak in your age-group based of novel COVID-19 for an individual. We aim to accomplish this buy compiling the most up to date and accurate information available to the public. This is done by combing characterisits of the user and artificial intelligence regression models to preduct the liklehood of contraction. The datasets inluded in this project are:
+        </p>
+        <ul>
+            <li><a href="https://coronavirus.m.pipedream.net/">Corona Virus Dataset</a></li>
+            <li><a href="https://data.census.gov/cedsci/">Census Data for Population Demographics of Counties</a></li>
+            <li><a href="https://raw.githubusercontent.com/ActiveConclusion/COVID19_mobility/master/google_reports/mobility_report_US.csv">Google Moiblity Data</a></li>
+        </ul>
+
+        <p><a href="https://github.com/connormahern/AI_Final_Project">Here</a> is the Git repository to our Python3 implementation of this project.</p>
+
+      </div>
+    </div>
+
+    <div class="container">
+      <!-- Example row of columns -->
+      <div class="row">
+        <div class="col-md-4">
+          <h2>Dean Allen</h2>
+          <p>Dean is an undergraduate student at Indiana University pursuing a degree in Computer Science.</p>
+          <p><a class="btn btn-secondary" href="https://www.linkedin.com/in/dean-allen-9301/#" role="button">LinkedIn »</a></p>
+        </div>
+        <div class="col-md-4">
+          <h2>Connor Mahern</h2>
+          <p>Connor is a Sophomore at Indiana University, studying Computer Science with a focus in Software Engineering.</p>
+          <p><a class="btn btn-secondary" href="https://www.linkedin.com/in/connor-mahern-434534183/" role="button">LinkedIn »</a></p>
+        </div>
+        <div class="col-md-4">
+          <h2>Diego Rios-Rojas</h2>
+           <p>Diego is an undergraduate student studying Computer Science and entrepreneurship at Indiana University, Bloomington</p>
+        </div>
+      </div>
+
+      <hr>
+
+    </div> <!-- /container -->
+
+  </main>
+{% endblock %}

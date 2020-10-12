@@ -1,0 +1,1450 @@
+location,country,gender,age
+"Shenzhen, Guangdong",China,1,66
+Shanghai,China,0,56
+Zhejiang,China,1,46
+Tianjin,China,0,60
+Tianjin,China,1,58
+Chongqing,China,0,44
+Sichuan,China,1,34
+Beijing,China,1,37
+Beijing,China,1,39
+Beijing,China,1,56
+Beijing,China,0,18
+Beijing,China,0,32
+Shandong,China,1,37
+Yunnan,China,1,51
+Sichuan,China,1,57
+Jiangxi,China,1,56
+Jiangxi,China,1,50
+Macau,China,0,52
+Liaoning,China,1,33
+Liaoning,China,1,40
+Fujian,China,1,70
+Guizhou,China,1,51
+Sichuan,China,0,28
+Sichuan,China,1,37
+Sichuan,China,1,19
+Ningxia,China,1,29
+Guangxi,China,0,66
+Guangxi,China,1,46
+Henan,China,0,32
+Henan,China,1,28
+Henan,China,1,55
+Henan,China,1,68
+Shandong,China,1,38
+Hebei,China,1,72
+Beijing,China,1,45
+Beijing,China,1,42
+Beijing,China,0,33
+Beijing,China,0,33
+Jiangsu,China,1,37
+Heilongjiang,China,1,69
+Guangxi,China,1,63
+Guangxi,China,0,62
+Guangxi,China,1,49
+Sichuan,China,1,50
+Sichuan,China,1,48
+Sichuan,China,1,36
+Jilin,China,0,36
+"Wuhan, Hubei",China,1,61
+"Wuhan, Hubei",China,1,69
+"Wuhan, Hubei",China,1,89
+"Wuhan, Hubei",China,1,89
+"Wuhan, Hubei",China,1,66
+"Wuhan, Hubei",China,1,75
+"Wuhan, Hubei",China,0,48
+"Wuhan, Hubei",China,1,82
+"Wuhan, Hubei",China,1,66
+"Wuhan, Hubei",China,1,81
+"Wuhan, Hubei",China,0,82
+"Wuhan, Hubei",China,1,65
+"Wuhan, Hubei",China,0,80
+"Wuhan, Hubei",China,1,53
+"Wuhan, Hubei",China,1,86
+"Wuhan, Hubei",China,0,70
+"Wuhan, Hubei",China,1,84
+Liaoning,China,0,50
+Hunan,China,1,40
+Hunan,China,1,45
+Hunan,China,0,66
+Hunan,China,1,59
+Hunan,China,0,23
+Guizhou,China,0,50
+Gansu,China,1,43
+Heilongjiang,China,1,49
+Shanxi (陕西),China,1,42
+Shanxi (陕西),China,0,32
+Shanxi (陕西),China,1,22
+Xinjiang,China,1,47
+Xinjiang,China,1,52
+Yunnan,China,1,53
+Tianjin,China,1,46
+Hubei ,China,0,85
+Hubei ,China,0,69
+Hubei ,China,1,36
+Hubei ,China,1,73
+Hubei ,China,0,70
+Hubei ,China,1,81
+Hubei ,China,0,65
+Liaoning,China,1,42
+Inner Mongolia,China,1,30
+Tianjin,China,0,29
+Shaanxi,China,1,49
+Shaanxi,China,1,23
+Shanghai,China,0,56
+Tianjin,China,1,39
+Yunnan,China,0,39
+Yunnan,China,0,34
+Yunnan,China,1,49
+"Wuhan, Hubei",China,1,70
+"Wuhan, Hubei",China,0,76
+"Wuhan, Hubei",China,1,72
+"Wuhan, Hubei",China,1,79
+"Wuhan, Hubei",China,1,55
+"Wuhan, Hubei",China,1,87
+"Wuhan, Hubei",China,0,66
+"Wuhan, Hubei",China,1,58
+"Wuhan, Hubei",China,1,66
+"Wuhan, Hubei",China,1,78
+"Wuhan, Hubei",China,1,67
+"Wuhan, Hubei",China,1,65
+"Wuhan, Hubei",China,1,58
+"Wuhan, Hubei",China,0,67
+"Wuhan, Hubei",China,0,82
+"Hechi, Guangxi",China,0,49
+"Hechi, Guangxi",China,0,2
+Tianjin,China,0,59
+Tianjin,China,1,57
+Tianjin,China,0,68
+Tianjin,China,1,40
+Tianjin,China,1,46
+Tianjin,China,1,56
+Tianjin,China,0,29
+Tianjin,China,1,29
+Tianjin,China,1,57
+Tianjin,China,1,30
+Gansu,China,0,33
+Gansu,China,0,20
+Shaanxi,China,0,24
+Shaanxi,China,1,28
+Shaanxi,China,1,41
+Shaanxi,China,1,46
+Shaanxi,China,0,45
+Shaanxi,China,0,9
+Shaanxi,China,1,40
+Shaanxi,China,1,28
+Shaanxi,China,1,27
+Shaanxi,China,1,15
+Yunnan ,China,0,42
+Yunnan ,China,1,24
+Yunnan ,China,0,32
+Yunnan ,China,1,34
+Yunnan ,China,1,63
+Yunnan ,China,1,58
+Xinjiang,China,1,49
+Ningxia,China,1,33
+Tianjin,China,0,55
+Tianjin,China,0,79
+Tianjin,China,0,19
+Macau,China,0,58
+Macau,China,0,39
+Macau,China,0,21
+Shaanxi,China,0,30
+Shaanxi,China,0,64
+Shaanxi,China,1,44
+Shaanxi,China,0,70
+Shaanxi,China,0,52
+Shaanxi,China,0,32
+Shaanxi,China,1,33
+Tianjin,China,1,71
+Yunnan,China,1,31
+Yunnan,China,0,48
+Yunnan,China,0,19
+Yunnan,China,0,68
+Yunnan,China,1,71
+Beijing,China,1,35
+Beijing,China,0,4
+Beijing,China,1,38
+Beijing,China,0,69
+Tianjin,China,1,50
+Tianjin,China,1,78
+Tianjin,China,1,49
+Guizhou,China,1,34
+Yunnan,China,0,55
+Yunnan,China,0,36
+Yunnan,China,1,65
+Jiangxi,China,1,38
+Shaanxi,China,0,36
+Shaanxi,China,1,18
+Shaanxi,China,1,50
+Shaanxi,China,0,40
+Shaanxi,China,0,63
+Shaanxi,China,0,47
+Shaanxi,China,0,42
+Shaanxi,China,1,48
+Shaanxi,China,1,39
+Shaanxi,China,0,41
+Shaanxi,China,1,31
+Shaanxi,China,1,27
+Hubei ,China,0,28
+Hubei ,China,0,51
+Shandong,China,1,37
+Bordeaux,France,1,48
+Paris,France,1,31
+Paris,France,0,30
+Paris,France,1,80
+Paris,France,0,33
+Annecy,France,1,63
+Amiens,France,1,55
+Strasbourg,France,1,36
+Paris,France,1,60
+Annecy,France,0,60
+Nantes,France,0,58
+Montpellier,France,1,31
+Brest,France,1,72
+Lyon,France,1,50
+Annecy,France,0,35
+Nice,France,0,23
+Pays de la Loire,France,0,27
+Pays de la Loire,France,0,58
+Pays de la Loire,France,0,25
+Pays de la Loire,France,1,25
+Kanagawa,Japan,1,35
+Tokyo,Japan,1,45
+Tokyo,Japan,0,35
+Aichi Prefecture,Japan,1,45
+Aichi Prefecture,Japan,1,45
+Nara Prefecture,Japan,1,65
+Hokkaido,Japan,0,45
+Osaka Prefecture,Japan,0,45
+Tokyo,Japan,1,55
+Mie,Japan,1,55
+Japan,Japan,0,35
+Kyoto,Japan,0,25
+Haneda,Japan,0,25
+Japan,Japan,1,45
+Japan,Japan,1,45
+Japan,Japan,1,35
+Chiba Prefecture,Japan,0,35
+Chiba Prefecture,Japan,0,55
+Japan,Japan,1,55
+Chiba Prefecture,Japan,1,45
+Kyoto,Japan,1,25
+Japan,Japan,1,55
+Japan,Japan,1,25
+Japan,Japan,1,45
+Japan,Japan,1,55
+Kanagawa,Japan,0,85
+Tokyo,Japan,1,75
+Wakayama Prefecture,Japan,1,55
+Chiba Prefecture,Japan,1,25
+Japan,Japan,1,75
+Okinawa Prefecture,Japan,0,65
+Tokyo,Japan,0,55
+Tokyo,Japan,1,75
+Aichi Prefecture,Japan,1,65
+Hokkaido,Japan,1,55
+Kanagawa,Japan,1,35
+Wakayama Prefecture,Japan,1,55
+Wakayama Prefecture,Japan,0,55
+Wakayama Prefecture,Japan,1,65
+Aichi Prefecture,Japan,0,65
+Tokyo,Japan,0,65
+Tokyo,Japan,1,45
+Tokyo,Japan,1,65
+Tokyo,Japan,1,35
+Aichi Prefecture,Japan,1,65
+Nara Prefecture,Japan,1,65
+Aichi Prefecture,Japan,1,65
+Wakayama Prefecture,Japan,0,85
+Wakayama Prefecture,Japan,0,55
+Wakayama Prefecture,Japan,1,55
+Wakayama Prefecture,Japan,1,55
+Wakayama Prefecture,Japan,0,45
+Wakayama Prefecture,Japan,1,65
+Wakayama Prefecture,Japan,1,35
+Tokyo,Japan,1,85
+Japan,Japan,1,25
+Japan,Japan,1,55
+Aichi Prefecture,Japan,1,65
+Sagamihara,Japan,1,85
+Sagamihara,Japan,1,75
+Kanagawa,Japan,1,65
+Sapporo,Japan,1,45
+Hokkaido,Japan,1,65
+Okinawa Prefecture,Japan,1,65
+Tokyo,Japan,1,75
+Tokyo,Japan,0,75
+Tokyo,Japan,0,75
+Nagoya City,Japan,0,55
+Japan,Japan,1,55
+Fukuoka Prefecture,Japan,1,65
+Hokkaido,Japan,1,45
+Chiba Prefecture,Japan,0,75
+Okinawa Prefecture,Japan,1,85
+Nagoya City,Japan,1,85
+Sagamihara,Japan,1,85
+Fukuoka Prefecture,Japan,0,65
+Hokkaido,Japan,1,5
+Hokkaido,Japan,1,15
+Hokkaido,Japan,0,45
+Ishikawa,Japan,1,55
+Tokyo,Japan,0,55
+Tokyo,Japan,0,75
+Tokyo,Japan,0,55
+Chiba Prefecture,Japan,1,65
+Sagamihara,Japan,1,85
+Nagoya City,Japan,1,75
+Nagoya City,Japan,0,25
+Kumamoto City,Japan,0,25
+Kumamoto City,Japan,1,55
+Kumamoto Prefecture,Japan,1,65
+Wakayama Prefecture,Japan,1,45
+Chiba Prefecture,Japan,0,65
+Japan,Japan,0,55
+Hokkaido,Japan,0,75
+Hokkaido,Japan,1,85
+Hokkaido,Japan,1,75
+Hokkaido,Japan,0,55
+Hokkaido,Japan,1,65
+Hokkaido,Japan,0,55
+Hokkaido,Japan,0,15
+Hokkaido,Japan,0,55
+Tokyo,Japan,1,65
+Nagoya City,Japan,0,65
+Nagoya City,Japan,0,46
+Nagoya City,Japan,1,65
+Nagoya City,Japan,1,65
+Japan,Japan,0,65
+Sagamihara,Japan,1,55
+Hokkaido,Japan,1,55
+Sapporo,Japan,1,75
+Nagoya City,Japan,0,75
+Nagoya City,Japan,1,75
+Chiba Prefecture,Japan,1,45
+Hokkaido,Japan,1,35
+Hokkaido,Japan,0,65
+Hokkaido,Japan,1,25
+Hokkaido,Japan,1,75
+Hokkaido,Japan,0,35
+Hokkaido,Japan,1,85
+Hokkaido,Japan,0,45
+Hokkaido,Japan,0,25
+Ishikawa,Japan,0,55
+Sagamihara,Japan,1,55
+Ishikawa,Japan,1,65
+Sapporo,Japan,0,75
+Sapporo,Japan,1,55
+Hokkaido,Japan,0,25
+Hokkaido,Japan,1,55
+Kanagawa,Japan,1,55
+Tokyo,Japan,1,45
+Tokyo,Japan,1,55
+Tokyo,Japan,1,35
+Sagamihara,Japan,0,55
+Sagamihara,Japan,0,25
+Sagamihara,Japan,0,25
+Nagano Prefecture,Japan,1,65
+Kumamoto City,Japan,1,55
+Kumamoto City,Japan,0,65
+Sapporo,Japan,0,65
+Ishikawa,Japan,0,55
+Nagoya City,Japan,0,75
+Nagoya City,Japan,0,75
+Nagoya City,Japan,0,45
+Chiba Prefecture,Japan,1,55
+Chiba Prefecture,Japan,1,65
+Chiba Prefecture,Japan,1,75
+Hokkaido,Japan,1,25
+Hokkaido,Japan,0,25
+Hokkaido,Japan,1,75
+Hokkaido,Japan,0,75
+Hokkaido,Japan,0,75
+Hokkaido,Japan,1,45
+Kanagawa,Japan,1,65
+Osaka Prefecture,Japan,0,45
+Tokyo,Japan,1,85
+Tokyo,Japan,1,75
+Tokyo,Japan,1,75
+Nagoya City,Japan,1,55
+Nagoya City,Japan,1,65
+Nagoya City,Japan,1,75
+Nagoya City,Japan,1,75
+Nagoya City,Japan,0,75
+Gifu Prefecture,Japan,1,55
+Gifu Prefecture,Japan,0,55
+Ishikawa,Japan,1,55
+Kanagawa,Japan,1,55
+Tokyo,Japan,0,60
+Osaka Prefecture,Japan,1,45
+Hokkaido,Japan,1,55
+Hokkaido,Japan,1,55
+Hokkaido,Japan,1,35
+Hokkaido,Japan,1,75
+Hokkaido,Japan,1,65
+Hokkaido,Japan,1,45
+Hokkaido,Japan,1,45
+Hokkaido,Japan,1,5
+Hokkaido,Japan,1,35
+Hokkaido,Japan,1,5
+Hokkaido,Japan,1,85
+Hokkaido,Japan,1,35
+Hokkaido,Japan,1,85
+Hokkaido,Japan,1,65
+Hokkaido,Japan,0,45
+Nagoya City,Japan,0,65
+Nagoya City,Japan,1,65
+Sagamihara City,Japan,0,45
+Sagamihara City,Japan,1,25
+Shizuoka City,Japan,1,65
+Hokkaido,Japan,0,85
+Hokkaido,Japan,1,5
+Hokkaido,Japan,1,85
+Hokkaido,Japan,0,65
+Hokkaido,Japan,1,65
+Hokkaido,Japan,1,65
+Hokkaido,Japan,0,65
+Hokkaido,Japan,1,45
+Hokkaido,Japan,1,75
+Sapporo,Japan,0,65
+Sapporo,Japan,1,65
+Sapporo,Japan,1,65
+Nagoya City,Japan,1,65
+Osaka Prefecture,Japan,0,45
+Kochi Prefecture,Japan,0,35
+Niigata City,Japan,1,65
+Sendai City,Japan,1,75
+Tokyo,Japan,0,25
+Hokkaido,Japan,0,95
+Hokkaido,Japan,0,65
+Hokkaido,Japan,0,35
+Hokkaido,Japan,0,25
+Nagoya City,Japan,0,75
+Kitakyushu City,Japan,1,65
+Kanagawa,Japan,0,75
+Kanagawa,Japan,0,55
+Funabashi City,Japan,1,25
+Hokkaido,Japan,0,25
+Hokkaido,Japan,1,45
+Tokyo,Japan,0,55
+Tokyo,Japan,1,75
+Sagamihara City,Japan,1,55
+Sagamihara City,Japan,0,55
+Kochi Prefecture,Japan,0,65
+Nagoya City,Japan,0,85
+Nagoya City,Japan,0,55
+Nagoya City,Japan,0,65
+Nishimiya City,Japan,1,45
+Kochi Prefecture,Japan,0,35
+Niigata City,Japan,1,45
+Hokkaido,Japan,1,65
+Hokkaido,Japan,1,65
+Hokkaido,Japan,1,55
+Asakihawa City,Japan,0,45
+Sapporo,Japan,1,55
+Osaka Prefecture,Japan,1,55
+Osaka Prefecture,Japan,0,45
+Oita City,Japan,0,35
+Kobe City,Japan,1,45
+Sapporo,Japan,0,35
+Sapporo,Japan,0,65
+Niigata City,Japan,0,65
+Niigata City,Japan,0,55
+Niigata City,Japan,1,45
+Kyoto,Japan,0,55
+Tokyo,Japan,0,55
+Osaka Prefecture,Japan,1,55
+Osaka Prefecture,Japan,0,45
+Aichi Prefecture,Japan,0,75
+Aichi Prefecture,Japan,1,85
+Aichi Prefecture,Japan,0,25
+Aichi Prefecture,Japan,1,75
+Aichi Prefecture,Japan,1,45
+Johor,Malaysia,1,40
+Johor,Malaysia,0,65
+Johor,Malaysia,1,11
+Johor,Malaysia,1,2
+Langkawi,Malaysia,0,4
+Johor,Malaysia,0,36
+Johor,Malaysia,1,52
+Johor,Malaysia,0,49
+Malaysia,Malaysia,1,41
+Malaysia,Malaysia,1,63
+Malaysia,Malaysia,1,45
+Malaysia,Malaysia,1,9
+Malaysia,Malaysia,0,40
+Malaysia,Malaysia,0,37
+Johor,Malaysia,0,59
+Malaysia,Malaysia,0,67
+Malaysia,Malaysia,0,65
+Malaysia,Malaysia,1,31
+Malaysia,Malaysia,0,39
+Malaysia,Malaysia,1,27
+Malaysia,Malaysia,0,32
+Malaysia,Malaysia,0,83
+Malaysia,Malaysia,0,53
+Kathmandu,Nepal,1,32
+Singapore,Singapore,1,66
+Singapore,Singapore,0,53
+Singapore,Singapore,1,37
+Singapore,Singapore,1,36
+Singapore,Singapore,0,56
+Singapore,Singapore,1,56
+Singapore,Singapore,1,35
+Singapore,Singapore,0,56
+Singapore,Singapore,1,56
+Singapore,Singapore,1,56
+Singapore,Singapore,0,31
+Singapore,Singapore,0,37
+Singapore,Singapore,0,73
+Singapore,Singapore,1,31
+Singapore,Singapore,0,47
+Singapore,Singapore,1,38
+Singapore,Singapore,0,47
+Singapore,Singapore,0,31
+Singapore,Singapore,0,28
+Singapore,Singapore,0,48
+Singapore,Singapore,0,44
+Singapore,Singapore,0,32
+Singapore,Singapore,0,42
+Singapore,Singapore,1,0.5
+Singapore,Singapore,1,45
+Singapore,Singapore,1,41
+Singapore,Singapore,1,27
+Singapore,Singapore,1,53
+Singapore,Singapore,0,42
+Singapore,Singapore,0,39
+Singapore,Singapore,0,40
+Singapore,Singapore,1,64
+Singapore,Singapore,0,38
+Singapore,Singapore,1,53
+Singapore,Singapore,0,52
+Singapore,Singapore,1,51
+Singapore,Singapore,1,36
+Singapore,Singapore,1,71
+Singapore,Singapore,1,39
+Singapore,Singapore,1,54
+Singapore,Singapore,1,37
+Singapore,Singapore,0,2
+Singapore,Singapore,1,35
+Singapore,Singapore,1,39
+Singapore,Singapore,1,34
+Singapore,Singapore,1,46
+Singapore,Singapore,1,62
+Singapore,Singapore,1,48
+Singapore,Singapore,1,37
+Singapore,Singapore,1,54
+Singapore,Singapore,0,55
+Singapore,Singapore,1,30
+Singapore,Singapore,1,30
+Singapore,Singapore,1,26
+Singapore,Singapore,1,55
+Singapore,Singapore,1,61
+Singapore,Singapore,0,51
+Singapore,Singapore,1,57
+Singapore,Singapore,0,44
+Singapore,Singapore,0,54
+Singapore,Singapore,1,50
+Singapore,Singapore,0,61
+Singapore,Singapore,1,28
+Singapore,Singapore,0,56
+Singapore,Singapore,0,79
+Singapore,Singapore,1,26
+Singapore,Singapore,0,27
+Singapore,Singapore,1,25
+Singapore,Singapore,1,40
+Singapore,Singapore,1,43
+Singapore,Singapore,1,29
+Singapore,Singapore,0,71
+Singapore,Singapore,1,1
+Singapore,Singapore,1,35
+Singapore,Singapore,0,57
+Singapore,Singapore,0,35
+Singapore,Singapore,0,38
+Singapore,Singapore,1,50
+Singapore,Singapore,0,57
+Singapore,Singapore,1,54
+Singapore,Singapore,0,35
+Singapore,Singapore,1,36
+Singapore,Singapore,1,24
+Singapore,Singapore,1,32
+Singapore,Singapore,0,30
+Singapore,Singapore,1,41
+Singapore,Singapore,0,75
+Singapore,Singapore,0,58
+Singapore,Singapore,1,47
+Singapore,Singapore,1,38
+Singapore,Singapore,0,64
+Singapore,Singapore,1,44
+Singapore,Singapore,1,12
+Singapore,Singapore,0,44
+Singapore,Singapore,1,24
+Singapore,Singapore,1,27
+Singapore,Singapore,1,20
+Singapore,Singapore,1,61
+Singapore,Singapore,0,41
+Singapore,Singapore,0,37
+Singapore,Singapore,0,25
+Singapore,Singapore,1,49
+Singapore,Singapore,1,54
+Singapore,Singapore,0,68
+Singapore,Singapore,0,34
+Singapore,Singapore,1,70
+Singapore,Singapore,1,33
+Singapore,Singapore,1,43
+Singapore,Singapore,0,62
+South Korea,South Korea,0,35
+South Korea,South Korea,1,55
+South Korea,South Korea,1,54
+South Korea,South Korea,1,55
+South Korea,South Korea,1,32
+South Korea,South Korea,1,56
+South Korea,South Korea,1,28
+South Korea,South Korea,0,62
+South Korea,South Korea,0,28
+South Korea,South Korea,0,52
+South Korea,South Korea,1,25
+South Korea,South Korea,1,48
+South Korea,South Korea,1,28
+Seoul,South Korea,0,40
+South Korea,South Korea,1,43
+South Korea,South Korea,0,42
+South Korea,South Korea,1,37
+South Korea,South Korea,0,21
+South Korea,South Korea,1,36
+South Korea,South Korea,0,41
+South Korea,South Korea,0,59
+South Korea,South Korea,1,46
+South Korea,South Korea,0,58
+South Korea,South Korea,1,28
+South Korea,South Korea,0,73
+South Korea,South Korea,1,51
+South Korea,South Korea,0,37
+South Korea,South Korea,0,30
+South Korea,South Korea,1,82
+South Korea,South Korea,0,68
+South Korea,South Korea,0,61
+South Korea,South Korea,0,11
+South Korea,South Korea,0,40
+South Korea,South Korea,1,24
+South Korea,South Korea,0,26
+South Korea,South Korea,0,48
+South Korea,South Korea,1,49
+South Korea,South Korea,0,57
+South Korea,South Korea,0,61
+South Korea,South Korea,1,77
+South Korea,South Korea,0,69
+South Korea,South Korea,0,29
+South Korea,South Korea,0,58
+South Korea,South Korea,0,46
+South Korea,South Korea,0,54
+South Korea,South Korea,1,28
+South Korea,South Korea,0,63
+South Korea,South Korea,0,72
+South Korea,South Korea,1,58
+South Korea,South Korea,1,76
+South Korea,South Korea,0,61
+South Korea,South Korea,1,24
+South Korea,South Korea,0,38
+South Korea,South Korea,1,57
+South Korea,South Korea,1,59
+South Korea,South Korea,1,75
+South Korea,South Korea,1,30
+South Korea,South Korea,0,26
+South Korea,South Korea,0,34
+South Korea,South Korea,0,59
+South Korea,South Korea,0,58
+South Korea,South Korea,1,60
+South Korea,South Korea,0,52
+South Korea,South Korea,0,59
+South Korea,South Korea,0,50
+South Korea,South Korea,1,22
+South Korea,South Korea,0,30
+South Korea,South Korea,0,56
+South Korea,South Korea,1,29
+South Korea,South Korea,0,48
+South Korea,South Korea,0,56
+South Korea,South Korea,0,39
+South Korea,South Korea,0,20
+South Korea,South Korea,1,49
+South Korea,South Korea,0,23
+South Korea,South Korea,1,36
+South Korea,South Korea,0,57
+South Korea,South Korea,1,55
+South Korea,South Korea,0,22
+South Korea,South Korea,0,34
+South Korea,South Korea,0,65
+South Korea,South Korea,1,64
+South Korea,South Korea,1,67
+South Korea,South Korea,1,74
+Seoul,South Korea,1,35
+South Korea,South Korea,1,62
+South Korea,South Korea,1,58
+South Korea,South Korea,1,62
+South Korea,South Korea,1,41
+South Korea,South Korea,1,36
+South Korea,South Korea,0,69
+South Korea,South Korea,1,75
+Taiwan,Taiwan,0,55
+Taiwan,Taiwan,0,55
+Taiwan,Taiwan,1,55
+Taiwan,Taiwan,0,50
+Taiwan,Taiwan,0,50
+Taiwan,Taiwan,0,70
+Taiwan,Taiwan,0,70
+Taiwan,Taiwan,1,55
+Taiwan,Taiwan,1,55
+Taiwan,Taiwan,1,45
+Taiwan,Taiwan,0,25
+Taiwan,Taiwan,1,55
+Taiwan,Taiwan,0,55
+Taiwan,Taiwan,0,45
+Taiwan,Taiwan,1,25
+Taiwan,Taiwan,1,25
+Taiwan,Taiwan,1,65
+Taiwan,Taiwan,1,55
+Taiwan,Taiwan,0,85
+Taiwan,Taiwan,1,35
+Taiwan,Taiwan,0,65
+Taiwan,Taiwan,0,60
+Taiwan,Taiwan,0,45
+Taiwan,Taiwan,0,25
+Taiwan,Taiwan,1,85
+Taiwan,Taiwan,1,55
+Taiwan,Taiwan,1,45
+Taiwan,Taiwan,0,75
+Taiwan,Taiwan,0,35
+Taiwan,Taiwan,1,35
+Taiwan,Taiwan,0,55
+Thailand,Thailand,0,61
+Thailand,Thailand,0,74
+Thailand,Thailand,1,68
+Thailand,Thailand,0,73
+Thailand,Thailand,0,33
+Thailand,Thailand,0,57
+Thailand,Thailand,0,73
+Thailand,Thailand,1,50
+Thailand,Thailand,1,70
+Thailand,Thailand,0,54
+Thailand,Thailand,0,35
+Thailand,Thailand,0,60
+Thailand,Thailand,0,31
+Thailand,Thailand,1,29
+Thailand,Thailand,1,8
+Thailand,Thailand,1,25
+Washington,USA,1,30
+Illinois,USA,0,60
+California,USA,1,55
+Illinois,USA,1,60
+Massachusetts,USA,1,23
+California,USA,1,57
+California,USA,0,57
+California,USA,0,65
+Washington,USA,1,15
+Washington,USA,0,55
+Washington,USA,1,55
+Washington,USA,0,75
+Washington,USA,0,45
+Rhode Island,USA,1,45
+Washington,USA,1,65
+Washington,USA,1,65
+New York,USA,0,38
+Washington,USA,0,85
+Washington,USA,0,95
+Washington,USA,1,75
+Washington,USA,1,75
+Washington,USA,1,45
+Florida,USA,1,63
+Florida,USA,0,29
+Rhode Island,USA,0,15
+Illinois,USA,0,75
+Washington,USA,1,55
+Washington,USA,1,75
+Washington,USA,0,75
+Washington,USA,0,85
+Washington,USA,0,55
+Massachusetts,USA,0,25
+Georgia,USA,1,15
+New York,USA,1,55
+Arizona,USA,1,25
+Washington,USA,1,55
+Washington,USA,1,45
+Washington,USA,0,65
+Washington,USA,0,45
+Washington,USA,0,65
+Washington,USA,1,75
+Washington,USA,1,25
+Washington,USA,1,25
+Washington,USA,0,85
+California,USA,1,65
+California,USA,0,35
+New York,USA,1,20
+New York,USA,0,14
+Washington,USA,1,55
+Washington,USA,1,65
+Washington,USA,0,75
+Washington,USA,0,95
+Washington,USA,1,65
+Washington,USA,0,75
+Washington,USA,1,35
+Washington,USA,1,85
+Washington,USA,0,25
+Washington,USA,0,55
+Texas,USA,1,75
+New Jersey,USA,1,70
+New York,USA,1,45
+New York,USA,0,85
+Nevada,USA,1,55
+Tennessee,USA,1,44
+Florida,USA,1,71
+Illinois,USA,1,21
+Washington,USA,0,65
+Washington,USA,1,65
+Washington,USA,0,25
+Washington,USA,0,55
+Washington,USA,0,45
+Washington,USA,0,55
+Washington,USA,1,55
+Washington,USA,0,65
+Washington,USA,1,45
+Washington,USA,0,85
+California,USA,1,95
+California,USA,0,45
+New Jersey,USA,1,32
+New York,USA,1,42
+Colorado,USA,1,35
+Massachusetts,USA,0,65
+Maryland,USA,0,75
+Maryland,USA,1,75
+Maryland,USA,0,55
+Texas,USA,0,65
+Texas,USA,1,60
+Georgia,USA,0,46
+Arizona,USA,0,45
+Massachusetts,USA,0,45
+Massachusetts,USA,0,45
+Massachusetts,USA,1,45
+New York,USA,1,55
+Nevada,USA,1,55
+New Jersey,USA,1,65
+Washington,USA,1,85
+Washington,USA,1,55
+Kentucky,USA,1,49
+Colorado,USA,1,45
+Colorado,USA,0,75
+Nebraska,USA,0,36
+New York,USA,0,12
+New York,USA,1,14
+New York,USA,1,17
+New York,USA,1,51
+Oklahoma,USA,1,55
+Colorado,USA,1,45
+New Jersey,USA,1,55
+Illinois,USA,0,55
+Texas,USA,0,65
+Texas,USA,0,65
+Rhode Island,USA,0,65
+Colorado,USA,0,45
+Colorado,USA,0,75
+Colorado,USA,0,55
+Washington,USA,1,55
+Florida,USA,1,75
+Florida,USA,1,65
+Florida,USA,0,77
+Texas,USA,1,45
+Florida,USA,1,77
+New York,USA,1,33
+New York,USA,1,57
+New York,USA,0,52
+Washington,USA,1,75
+Massachusetts,USA,0,45
+Massachusetts,USA,0,55
+Massachusetts,USA,1,45
+Massachusetts,USA,1,65
+Washington,USA,0,85
+Washington,USA,0,45
+Washington,USA,1,65
+Washington,USA,1,45
+Washington,USA,0,65
+Washington,USA,1,45
+Washington,USA,0,55
+Washington,USA,0,35
+Washington,USA,0,55
+Florida,USA,0,54
+California,USA,1,55
+Washington,USA,0,67
+Massachusetts,USA,1,65
+district of columbia,USA,1,55
+Florida,USA,0,61
+Florida,USA,0,66
+Missouri,USA,0,25
+Florida,USA,0,81
+Washington,USA,0,35
+Washington,USA,1,45
+district of columbia,USA,1,55
+Texas,USA,1,75
+Texas,USA,1,75
+Texas,USA,0,65
+Connecticut,USA,1,45
+New Jersey,USA,1,70
+New Jersey,USA,1,32
+Illinois,USA,1,65
+Nevada,USA,0,75
+Washington,USA,0,85
+Washington,USA,1,35
+Washington,USA,1,65
+Washington,USA,1,75
+Maryland,USA,0,85
+Maryland,USA,1,65
+Kentucky,USA,0,27
+Kentucky,USA,1,69
+Florida,USA,1,67
+Nevada,USA,1,35
+New York,USA,1,45
+California,USA,1,55
+Texas,USA,1,35
+Colorado,USA,0,55
+Washington,USA,0,85
+Washington,USA,0,95
+New Jersey,USA,1,30
+New Jersey,USA,1,48
+New Jersey,USA,1,27
+New Jersey,USA,0,83
+Illinois,USA,0,55
+Illinois,USA,0,75
+Illinois,USA,0,55
+Illinois,USA,0,75
+Colorado,USA,0,35
+Washington,USA,0,75
+Washington,USA,0,75
+Washington,USA,1,65
+Washington,USA,1,65
+Washington,USA,1,75
+Washington,USA,0,75
+Kentucky,USA,1,46
+Kentucky,USA,0,67
+Maryland,USA,0,55
+Florida,USA,0,65
+California,USA,0,95
+district of columbia,USA,1,39
+district of columbia,USA,1,77
+district of columbia,USA,1,79
+Colorado,USA,0,75
+California,USA,0,55
+Colorado,USA,0,35
+Florida,USA,0,69
+Oklahoma,USA,0,25
+New Jersey,USA,1,69
+Pennsylvania,USA,1,55
+Colorado,USA,0,15
+Colorado,USA,1,35
+Illinois,USA,1,75
+Illinois,USA,0,65
+Illinois,USA,0,45
+Illinois,USA,1,45
+Illinois,USA,0,65
+Washington,USA,0,85
+Washington,USA,0,75
+Washington,USA,0,35
+Washington,USA,0,55
+Washington,USA,0,75
+Washington,USA,0,45
+Washington,USA,1,55
+Washington,USA,0,55
+Washington,USA,1,35
+Washington,USA,0,55
+Washington,USA,1,45
+Washington,USA,0,25
+Washington,USA,0,45
+Washington,USA,0,25
+Washington,USA,0,55
+Washington,USA,1,35
+Washington,USA,1,75
+Kentucky,USA,1,68
+South Dakota,USA,1,65
+South Dakota,USA,1,45
+South Dakota,USA,1,55
+South Dakota,USA,0,35
+Maryland,USA,0,65
+South Dakota,USA,1,45
+Nevada,USA,0,45
+Washington,USA,1,85
+Washington,USA,0,95
+Washington,USA,0,45
+Washington,USA,0,85
+Washington,USA,1,85
+Washington,USA,1,65
+Washington,USA,0,65
+Colorado,USA,0,45
+Colorado,USA,0,75
+Colorado,USA,1,55
+Texas,USA,0,25
+New York,USA,1,23
+New York,USA,0,23
+New York,USA,1,85
+Texas,USA,0,45
+Florida,USA,0,68
+California,USA,0,95
+Florida,USA,1,68
+Florida,USA,1,73
+Florida,USA,0,68
+Florida,USA,0,64
+Florida,USA,1,67
+Florida,USA,1,54
+Florida,USA,1,46
+Washington,USA,1,55
+New Mexico,USA,1,65
+New Mexico,USA,0,65
+New Mexico,USA,0,75
+Arizona,USA,1,95
+Colorado,USA,1,55
+Colorado,USA,0,25
+Colorado,USA,0,65
+Ohio,USA,1,53
+Colorado,USA,0,35
+Colorado,USA,0,55
+Colorado,USA,0,55
+Colorado,USA,0,75
+Montana,USA,0,75
+Colorado,USA,1,75
+Colorado,USA,1,45
+Illinois,USA,1,85
+Illinois,USA,1,75
+Illinois,USA,1,75
+Illinois,USA,0,55
+Illinois,USA,1,45
+Nevada,USA,0,45
+Nevada,USA,1,65
+Nevada,USA,0,75
+Illinois,USA,1,55
+Colorado,USA,0,65
+Colorado,USA,1,65
+Colorado,USA,1,65
+Colorado,USA,1,65
+Colorado,USA,1,75
+Colorado,USA,1,65
+Washington,USA,0,67
+South Dakota,USA,1,55
+South Dakota,USA,1,45
+South Dakota,USA,1,65
+Florida,USA,1,56
+Vermont,USA,1,75
+Maryland,USA,1,25
+Maryland,USA,1,65
+Maryland,USA,1,65
+New Mexico,USA,0,65
+Florida,USA,1,70
+Texas,USA,0,20
+Utah,USA,1,27
+New York,USA,1,35
+New York,USA,1,35
+Florida,USA,1,61
+Florida,USA,1,65
+New York,USA,1,25
+New York,USA,0,35
+Texas,USA,1,45
+Maine,USA,0,55
+Texas,USA,1,45
+Utah,USA,1,23
+Florida,USA,1,68
+New Mexico,USA,0,45
+New Jersey,USA,0,66
+New Jersey,USA,1,53
+New Jersey,USA,1,51
+New Jersey,USA,1,23
+Virginia,USA,1,65
+Virginia,USA,1,25
+Virginia,USA,1,45
+California,USA,0,75
+Washington,USA,1,85
+Texas,USA,0,45
+Texas,USA,1,45
+Illinois,USA,0,45
+Illinois,USA,1,75
+Illinois,USA,0,75
+Illinois,USA,0,75
+Illinois,USA,1,55
+Illinois,USA,1,65
+Texas,USA,1,35
+Nevada,USA,0,75
+Colorado,USA,1,25
+Colorado,USA,0,35
+Colorado,USA,1,85
+Colorado,USA,0,30
+Kansas,USA,1,75
+New Jersey,USA,0,58
+California,USA,1,55
+California,USA,1,45
+California,USA,0,75
+California,USA,1,55
+New Mexico,USA,0,55
+Georgia,USA,0,29
+Florida,USA,0,24
+Florida,USA,0,28
+Florida,USA,0,49
+Florida,USA,1,77
+Florida,USA,1,50
+Florida,USA,1,70
+Florida,USA,1,83
+Florida,USA,1,57
+Nebraska,USA,1,55
+Texas,USA,0,75
+Texas,USA,1,45
+Texas,USA,1,55
+Texas,USA,1,65
+Texas,USA,0,65
+Florida,USA,1,73
+Florida,USA,1,74
+Florida,USA,1,70
+Florida,USA,0,20
+Florida,USA,0,68
+Florida,USA,0,25
+Florida,USA,1,36
+Florida,USA,1,42
+New Jersey,USA,0,16
+New Jersey,USA,1,74
+Texas,USA,1,65
+Texas,USA,0,35
+Ho Chi Minh City,Vietnam,1,66
+Ho Chi Minh City,Vietnam,1,28
+Vinh Phuc,Vietnam,1,30
+Vinh Phuc,Vietnam,0,42
+Vinh Phuc,Vietnam,0,16
+Vinh Phuc,Vietnam,0,29
+Vinh Phuc,Vietnam,0,55
+Vinh Phuc,Vietnam,1,50
+NSW,Australia,1,35
+NSW,Australia,1,43
+NSW,Australia,1,53
+Victoria,Australia,1,55
+NSW,Australia,0,21
+Queensland,Australia,1,44
+Victoria,Australia,1,65
+Victoria,Australia,0,45
+Queensland,Australia,0,42
+South Australia,Australia,1,60
+South Australia,Australia,0,60
+Victoria,Australia,0,25
+Queensland,Australia,1,8
+Queensland,Australia,1,37
+Queensland,Australia,0,37
+Toronto,Canada,1,56
+Toronto,Canada,0,55
+Vancouver,Canada,1,45
+Toronto,Canada,0,25
+Vancouver,Canada,0,55
+Vancouver,Canada,1,35
+Vancouver,Canada,0,35
+Vancouver,Canada,0,35
+Vancouver,Canada,0,35
+Toronto,Canada,0,25
+Vancouver,Canada,1,45
+Toronto,Canada,0,65
+Preah Sihanouk Province,Cambodia,1,60
+Sri Lanka,Sri Lanka,0,40
+Bavaria,Germany,1,33
+Bavaria,Germany,1,52
+Bavaria,Germany,1,33
+Bavaria,Germany,1,58
+Bavaria,Germany,1,49
+Baden-Wuerttemberg,Germany,1,25
+Baden-Wuerttemberg,Germany,1,60
+Baden-Wuerttemberg,Germany,0,24
+Baden-Wuerttemberg,Germany,1,32
+North Rhine-Westphalia,Germany,1,47
+North Rhine-Westphalia,Germany,0,46
+North Rhine-Westphalia,Germany,1,41
+Hesse,Germany,1,31
+Baden-Wuerttemberg,Germany,1,32
+Hesse,Germany,1,29
+Hesse,Germany,1,32
+Hesse,Germany,1,28
+Hesse,Germany,1,31
+Hesse,Germany,0,41
+Hesse,Germany,0,42
+Hesse,Germany,1,52
+Baden-Wuerttemberg,Germany,0,42
+Baden-Wuerttemberg,Germany,1,20
+Baden-Wuerttemberg,Germany,1,68
+Baden-Wuerttemberg,Germany,1,24
+Baden-Wuerttemberg,Germany,1,54
+Baden-Wuerttemberg,Germany,1,41
+Baden-Wuerttemberg,Germany,1,85
+Baden-Wuerttemberg,Germany,0,54
+Baden-Wuerttemberg,Germany,1,32
+Baden-Wuerttemberg,Germany,0,51
+Baden-Wuerttemberg,Germany,1,61
+Baden-Wuerttemberg,Germany,0,45
+Baden-Wuerttemberg,Germany,1,44
+Baden-Wuerttemberg,Germany,1,45
+Baden-Wuerttemberg,Germany,1,18
+Baden-Wuerttemberg,Germany,0,43
+Mecklenburg-Vorpommern,Germany,1,64
+Mecklenburg-Vorpommern,Germany,0,62
+Mecklenburg-Vorpommern,Germany,1,50
+Brandenburg,Germany,1,51
+Thuringia,Germany,1,57
+Baden-Wuerttemberg,Germany,1,48
+Baden-Wuerttemberg,Germany,1,53
+Baden-Wuerttemberg,Germany,1,12
+Baden-Wuerttemberg,Germany,1,54
+Baden-Wuerttemberg,Germany,1,63
+Baden-Wuerttemberg,Germany,0,12
+Baden-Wuerttemberg,Germany,0,46
+Baden-Wuerttemberg,Germany,1,61
+Baden-Wuerttemberg,Germany,0,55
+Baden-Wuerttemberg,Germany,0,14
+Baden-Wuerttemberg,Germany,0,25
+Baden-Wuerttemberg,Germany,0,38
+Baden-Wuerttemberg,Germany,0,33
+Baden-Wuerttemberg,Germany,1,80
+Baden-Wuerttemberg,Germany,1,40
+Baden-Wuerttemberg,Germany,1,58
+Baden-Wuerttemberg,Germany,0,33
+Baden-Wuerttemberg,Germany,0,91
+Baden-Wuerttemberg,Germany,0,87
+Baden-Wuerttemberg,Germany,1,77
+Baden-Wuerttemberg,Germany,1,56
+Baden-Wuerttemberg,Germany,1,19
+Baden-Wuerttemberg,Germany,1,34
+Mecklenburg-Vorpommern,Germany,1,49
+Hesse,Germany,0,75
+Hesse,Germany,0,21
+Hesse,Germany,0,27
+Baden-Wuerttemberg,Germany,0,50
+Baden-Wuerttemberg,Germany,0,50
+Baden-Wuerttemberg,Germany,0,18
+Baden-Wuerttemberg,Germany,0,20
+Baden-Wuerttemberg,Germany,1,63
+Baden-Wuerttemberg,Germany,1,51
+Baden-Wuerttemberg,Germany,0,54
+Baden-Wuerttemberg,Germany,1,41
+Baden-Wuerttemberg,Germany,1,60
+Baden-Wuerttemberg,Germany,1,19
+Baden-Wuerttemberg,Germany,0,19
+Baden-Wuerttemberg,Germany,0,19
+Baden-Wuerttemberg,Germany,0,51
+Hesse,Germany,1,54
+Baden-Wuerttemberg,Germany,1,50
+Baden-Wuerttemberg,Germany,1,57
+Baden-Wuerttemberg,Germany,0,54
+Baden-Wuerttemberg,Germany,0,17
+Baden-Wuerttemberg,Germany,1,43
+Mecklenburg-Vorpommern,Germany,1,56
+Mecklenburg-Vorpommern,Germany,0,23
+Mecklenburg-Vorpommern,Germany,1,37
+Saarland,Germany,0,65
+Brandenburg,Germany,0,43
+UAE,UAE,0,73
+UAE,UAE,0,36
+UAE,UAE,1,41
+UAE,UAE,1,8
+UAE,UAE,1,37
+UAE,UAE,1,70
+UAE,UAE,0,64
+Hong Kong,Hong Kong,1,39
+Hong Kong,Hong Kong,1,56
+Hong Kong,Hong Kong,0,62
+Hong Kong,Hong Kong,0,62
+Hong Kong,Hong Kong,1,63
+Hong Kong,Hong Kong,1,47
+Hong Kong,Hong Kong,0,68
+Hong Kong,Hong Kong,1,64
+Hong Kong,Hong Kong,0,73
+Hong Kong,Hong Kong,1,72
+Yau Ma Tei,Hong Kong,0,37
+Tsing Yi,Hong Kong,1,75
+Kowloon,Hong Kong,1,39
+Hong Kong,Hong Kong,1,80
+Kowloon,Hong Kong,0,72
+Kowloon,Hong Kong,0,64
+Hong Kong,Hong Kong,1,60
+Kowloon,Hong Kong,1,25
+Kwun Tong,Hong Kong,0,56
+Kwun Tong,Hong Kong,0,28
+Kwai Chung,Hong Kong,1,56
+Kwai Chung,Hong Kong,0,55
+Hong Kong,Hong Kong,0,63
+Hong Kong,Hong Kong,0,65
+Zhuhai,Hong Kong,1,58
+Fo Tan,Hong Kong,1,42
+Wan Chai,Hong Kong,1,24
+Ngau Chi Wan,Hong Kong,1,70
+Hong Kong,Hong Kong,1,68
+Hong Kong,Hong Kong,0,57
+Hong Kong,Hong Kong,0,91
+Hong Kong,Hong Kong,0,51
+Hong Kong,Hong Kong,0,25
+Hong Kong,Hong Kong,1,22
+Hong Kong,Hong Kong,0,50
+Hong Kong,Hong Kong,1,23
+Hong Kong,Hong Kong,0,55
+Hong Kong,Hong Kong,1,52
+Hong Kong,Hong Kong,1,69
+Hong Kong,Hong Kong,0,63
+Hong Kong,Hong Kong,0,86
+Hong Kong,Hong Kong,0,62
+Hong Kong,Hong Kong,1,59
+Hong Kong,Hong Kong,0,60
+Hong Kong,Hong Kong,1,71
+Hong Kong,Hong Kong,1,37
+Hong Kong,Hong Kong,1,66
+Hong Kong,Hong Kong,0,37
+Hong Kong,Hong Kong,1,75
+Hong Kong,Hong Kong,1,51
+Hong Kong,Hong Kong,1,43
+Hong Kong,Hong Kong,0,67
+Hong Kong,Hong Kong,1,37
+Hong Kong,Hong Kong,0,41
+Hong Kong,Hong Kong,1,70
+Hong Kong,Hong Kong,1,54
+Hong Kong,Hong Kong,1,69
+Hong Kong,Hong Kong,1,45
+Hong Kong,Hong Kong,0,46
+Hong Kong,Hong Kong,0,32
+Hong Kong,Hong Kong,1,58
+Hong Kong,Hong Kong,0,83
+Hong Kong,Hong Kong,0,83
+Hong Kong,Hong Kong,1,68
+Hong Kong,Hong Kong,0,70
+Hong Kong,Hong Kong,1,75
+Hong Kong,Hong Kong,0,38
+Hong Kong,Hong Kong,1,58
+Hong Kong,Hong Kong,1,48
+Hong Kong,Hong Kong,0,96
+Hong Kong,Hong Kong,1,68
+Hong Kong,Hong Kong,1,62
+Hong Kong,Hong Kong,0,80
+Hong Kong,Hong Kong,0,76
+Hong Kong,Hong Kong,1,35
+Hong Kong,Hong Kong,0,57
+Hong Kong,Hong Kong,0,68
+Hong Kong,Hong Kong,0,59
+Hong Kong,Hong Kong,0,58
+Hong Kong,Hong Kong,1,57
+Hong Kong,Hong Kong,0,57
+Hong Kong,Hong Kong,1,33
+Hong Kong,Hong Kong,0,55
+Hong Kong,Hong Kong,1,24
+Hong Kong,Hong Kong,0,60
+Hong Kong,Hong Kong,0,49
+Hong Kong,Hong Kong,0,21
+Hong Kong,Hong Kong,1,16
+Hong Kong,Hong Kong,1,80
+Hong Kong,Hong Kong,0,29
+Hong Kong,Hong Kong,1,26
+Hong Kong,Hong Kong,0,70
+Hong Kong,Hong Kong,0,89
+Hong Kong,Hong Kong,0,61
+Hong Kong,Hong Kong,0,46
+Hong Kong,Hong Kong,0,68
+Hong Kong,Hong Kong,1,56
+Hong Kong,Hong Kong,0,71
+Hong Kong,Hong Kong,0,76
+Hong Kong,Hong Kong,1,79
+Hong Kong,Hong Kong,1,63
+Rome,Italy,1,35
+Lombardy,Italy,1,38
+Lombardy,Italy,1,75
+Veneto,Italy,1,78
+Veneto,Italy,1,67
+Milan,Italy,1,78
+Milan,Italy,1,71
+Lombardy,Italy,0,77
+Lombardy,Italy,1,65
+Lombardy,Italy,0,57
+Lombardy,Italy,0,38
+Lombardy,Italy,0,32
+Lombardy,Italy,0,66
+Piedmont,Italy,1,40
+Veneto,Italy,1,67
+Lombardy,Italy,0,68
+Lombardy,Italy,0,44
+Lombardy,Italy,1,58
+Lombardy,Italy,1,78
+Lombardy,Italy,1,79
+London,UK,1,53
+Manila,Phillipines,1,44
+Manila,Phillipines,0,38
+Phillipines,Phillipines,0,60
+Lapland,Finland,0,32
+Tenerife,Spain,1,69
+Barcelona,Spain,0,36
+Castellon,Spain,1,31
+Barcelona,Spain,1,22
+Andalusia,Spain,1,62
+Valencia,Spain,1,44
+Barcelona,Spain,0,22
+Castile and Leon,Spain,1,30
+Castile and Leon,Spain,1,18
+Andalusia,Spain,1,28
+Andalusia,Spain,1,42
+Andalusia,Spain,1,53
+Andalusia,Spain,0,81
+Andalusia,Spain,1,55
+Andalusia,Spain,0,25
+Andalusia,Spain,1,58
+Andalusia,Spain,0,55
+Zaragoza,Spain,0,27
+Andalusia,Spain,1,59
+Andalusia,Spain,1,62
+Catalonia,Spain,0,52
+Catalonia,Spain,0,39
+Castilla-La Mancha,Spain,1,62
+Castille and Leon,Spain,1,62
+Extremadura,Spain,1,56
+Extremadura,Spain,1,56
+Extremadura,Spain,1,58
+Extremadura,Spain,1,19
+Castilla-La Mancha,Spain,1,30
+Castilla-La Mancha,Spain,1,23
+Castile and Leon,Spain,0,19
+Castile and Leon,Spain,1,52
+Catalonia,Spain,0,20
+Catalonia,Spain,0,16
+Catalonia,Spain,1,28
+Extremadura,Spain,0,20
+Extremadura,Spain,0,21
+Navarra,Spain,1,34
+La Rioja,Spain,1,52
+Andalusia,Spain,1,73
+Andalusia,Spain,0,17
+Andalusia,Spain,0,23
+Andalusia,Spain,0,37
+Andalusia,Spain,0,63
+Andalusia,Spain,0,48
+Andalusia,Spain,1,78
+Andalusia,Spain,1,74
+Andalusia,Spain,1,72
+Andalusia,Spain,1,54
+Andalusia,Spain,1,22
+Andalusia,Spain,1,32
+Andalusia,Spain,1,37
+Andalusia,Spain,1,53
+Andalusia,Spain,1,70
+Andalusia,Spain,0,74
+Andalusia,Spain,0,75
+Andalusia,Spain,1,64
+Andalusia,Spain,1,55
+Andalusia,Spain,0,21
+Andalusia,Spain,1,52
+Andalusia,Spain,1,23
+Andalusia,Spain,0,71
+Andalusia,Spain,0,50
+Andalusia,Spain,1,66
+Andalusia,Spain,1,40
+Andalusia,Spain,1,53
+Andalusia,Spain,1,77
+Aragon,Spain,0,69
+Aragon,Spain,1,85
+Aragon,Spain,1,83
+Aragon,Spain,1,66
+Aragon,Spain,0,96
+Jonkoping,Sweden,0,25
+Lebanon,Lebanon,0,45
+Ticino,Switzerland,1,70
+Geneva,Switzerland,1,28
+Aargau,Switzerland,1,26
+Zurich,Switzerland,0,30
+Vaud,Switzerland,1,49
+Basal-Stadt,Switzerland,1,23
