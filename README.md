@@ -1,6 +1,6 @@
 # covid19_outbreak_by_age_predictor
 
-Link to live project: http://www.virustrackercovid19.com/
+Link to live project: http://www.virustrackercovid19.com/ [hosting removed]
 
 This project uses a Flask framework to deploy to the web and uses Python data analysis techniques. Data is read from a number of sources including:
 - https://www.google.com/covid19/mobility/
